@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"Downloads": {
+		"UI Download": "https://cdn.discordapp.com/attachments/821651454703566859/821652947137724436/BangX.exe",
+		"Sxlib Download": "https://cdn.discordapp.com/attachments/821651454703566859/821653165769621554/sxlib.dll",
+		"Lua Syntax Download": "https://cdn.discordapp.com/attachments/821651454703566859/821652988635906078/lua.xshd",
+		"ICSharpCode.AvalonEdit": "https://cdn.discordapp.com/attachments/821651454703566859/821652945611259915/ICSharpCode.AvalonEdit.dll",
+		"UI Config": "https://cdn.discordapp.com/attachments/821651454703566859/821652946332549170/BangX.exe.config",
+		"KrnlAPI": "https://cdn.discordapp.com/attachments/821651454703566859/821652943555788810/KrnlAPI.dll"
+	}
+}
